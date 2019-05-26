@@ -7,7 +7,7 @@
 
         {
             "name": "Dart",
-            "program": "lib/bolum1/final_ve_const_kavramlari.dart",
+            "program": "lib/bolum3/kisa_fonksiyon_kullanimi.dart",
             "request": "launch",
             "type": "dart"
         }
