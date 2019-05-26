@@ -30,14 +30,13 @@ main(List<String> args) {
   int hexadecimalSayi = 0xBBAACC;
   print(hexadecimalSayi);
 
-  double exponentSayi= 1.23e6;
+  double exponentSayi = 1.23e6;
   print(exponentSayi);
 
-  var sayi2= 44;
+  var sayi2 = 44;
+  print(sayi2);
   //sayi2=23.56 // onceki atama int tipinde oldugu icin sonrasida tip degistirilemez. type safety
 
-  bool kayitOlmusmu= true;  // var olarak da tanımlanabilir.
+  bool kayitOlmusmu = true; // var olarak da tanımlanabilir.
   print(kayitOlmusmu);
-
-
 }
